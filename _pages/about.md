@@ -1,13 +1,29 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a researcher working at the intersection of **thermal metrology, computational materials science, and computational mechanics**, with a focus on understanding heat flow in advanced materials and semiconductor devices. My work combines laser-based thermal measurements, first-principles modeling, phonon transport theory, molecular dynamics with machine-learned interatomic potentials, and finite-element simulation to connect material structure, thermal behavior, and device-relevant performance.
+
+My recent research has focused on nanoscale thermal transport in ultra-wide-bandgap semiconductor alloys, high-throughput thermal properties mapping, and predictive modeling of thermal conductivity in compositionally disordered materials. I am particularly interested in problems where experiments and simulations must inform each other, such as interpreting photothermal measurements, validating transport models, and identifying the physical mechanisms that control heat conduction across length scales.
+
+Before specializing in thermal transport and materials modeling, I trained in computational mechanics and worked on structural analysis, fracture, impact loading, and aerospace component design. This broader engineering background shapes how I approach research: by combining rigorous physics-based modeling with practical awareness of reliability, manufacturability, and real-world technology needs.
+
+Through my work, I aim to develop tools and insights that help researchers and engineers characterize meateirals more accurately, design better thermal management strategies, and accelerate the development of next-generation electronic, photonic, and energy technologies.
+
+<!--I work at the intersection of thermal metrology, computational material science, and computational mechanics. My research connects laser-based thermal measurements with first-principles simulations, molecular dynamics, phonon transport modeling, and finite elements analysis to underestand heat flow in advanced materials and semiconductor devices. With experience ranging from nanoscale thermal transport in ultra-wide-bandgap semiconductors to mechanics driven engineering analysis, I focus on building measurement-informed models that translate fundamental materials physics into practical insight for technology development. -->
+
+<!--I am a mechanical engineer interested in modeling and measurement of nanoscale thermal transport properties of advanced materials. I seek to understand the fundamental mechanisms behind heat transport at atomic level by studying behavior of phonons within a material and near solid/solid interfaces. My research incorporates knowledge from mechanical engineering, condensed matter physics, material science, and computational chemistry. I apply atomistic- and meso-scale simulation techniques for predicting thermal transport behavior and leverage ultafast laser technique and micro/nanofabrication to develop experimental techniques to measure thermal properties.
+
+As a postdoctoral research associate at The George Washington University and a associate researcher at The National Institute of Standards and Technology, I am applying my experties in analytical model development and computational methods to develop photothermal microscopy solutions. My current research focuses on development of photothermal induced resonance (PTIR) based high throughput measurements of 
+to develop measurement solutions for high throughput measurements of thremal properties with nanoscale spatial resolution. -->
+
+
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -53,4 +69,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
